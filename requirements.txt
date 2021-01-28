@@ -1,0 +1,12 @@
+cached-property==1.5.2
+fancy-config>=0.7.1
+matplotlib>=3.3.2
+
+numpy>=1.19.5
+Pillow>=8.1.0
+PyYAML
+torch>=1.5.1
+torchvision>=0.6.1
+
+pytest>=6.2.1
+setuptools>=51.1.2
